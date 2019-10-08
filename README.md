@@ -15,4 +15,5 @@ We clearly communicated a message to the audience that Allstate is not just an i
 
 We clearly communicated a message to the audience that Allstate is not just an insurance company, we are also a tech company and we are investing heavily in building new technology and retaining our talent. - Abhishek Jaiswal
 
-Kathy’s message about 60 percent of working being done in an agile fashion resonated with me because it illustrates Allstate’s commitment to the customer and meeting customer needs both quickly and with quality. – Stacy Ray-Duty
+Kathy’s message about 60 percent of working being done in an agile fashion resonated with me because it illustrates Allstate’s commitment to the customer and meeting customer needs both quickly and with quality. 
+– Stacy Ray-Duty
